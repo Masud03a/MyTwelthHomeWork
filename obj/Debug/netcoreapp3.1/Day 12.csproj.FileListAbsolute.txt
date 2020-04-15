@@ -1,0 +1,40 @@
+C:\Users\Faridun\Allif Academy\Day 12\bin\Debug\netcoreapp3.1\Day 12.exe
+C:\Users\Faridun\Allif Academy\Day 12\bin\Debug\netcoreapp3.1\Day 12.deps.json
+C:\Users\Faridun\Allif Academy\Day 12\bin\Debug\netcoreapp3.1\Day 12.runtimeconfig.json
+C:\Users\Faridun\Allif Academy\Day 12\bin\Debug\netcoreapp3.1\Day 12.runtimeconfig.dev.json
+C:\Users\Faridun\Allif Academy\Day 12\bin\Debug\netcoreapp3.1\Day 12.dll
+C:\Users\Faridun\Allif Academy\Day 12\bin\Debug\netcoreapp3.1\Day 12.pdb
+C:\Users\Faridun\Allif Academy\Day 12\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Faridun\Allif Academy\Day 12\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Faridun\Allif Academy\Day 12\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Faridun\Allif Academy\Day 12\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Faridun\Allif Academy\Day 12\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Faridun\Allif Academy\Day 12\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Faridun\Allif Academy\Day 12\obj\Debug\netcoreapp3.1\Day 12.csprojAssemblyReference.cache
+C:\Users\Faridun\Allif Academy\Day 12\obj\Debug\netcoreapp3.1\Day 12.csproj.CoreCompileInputs.cache
+C:\Users\Faridun\Allif Academy\Day 12\obj\Debug\netcoreapp3.1\Day 12.AssemblyInfoInputs.cache
+C:\Users\Faridun\Allif Academy\Day 12\obj\Debug\netcoreapp3.1\Day 12.AssemblyInfo.cs
+C:\Users\Faridun\Allif Academy\Day 12\obj\Debug\netcoreapp3.1\Day 12.csproj.CopyComplete
+C:\Users\Faridun\Allif Academy\Day 12\obj\Debug\netcoreapp3.1\Day 12.dll
+C:\Users\Faridun\Allif Academy\Day 12\obj\Debug\netcoreapp3.1\Day 12.pdb
+C:\Users\Faridun\Allif Academy\Day 12\obj\Debug\netcoreapp3.1\Day 12.genruntimeconfig.cache
+C:\projects\MyEleventhConsoleApp\bin\Debug\netcoreapp3.1\Day 12.exe
+C:\projects\MyEleventhConsoleApp\bin\Debug\netcoreapp3.1\Day 12.deps.json
+C:\projects\MyEleventhConsoleApp\bin\Debug\netcoreapp3.1\Day 12.runtimeconfig.json
+C:\projects\MyEleventhConsoleApp\bin\Debug\netcoreapp3.1\Day 12.runtimeconfig.dev.json
+C:\projects\MyEleventhConsoleApp\bin\Debug\netcoreapp3.1\Day 12.dll
+C:\projects\MyEleventhConsoleApp\bin\Debug\netcoreapp3.1\Day 12.pdb
+C:\projects\MyEleventhConsoleApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\projects\MyEleventhConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\projects\MyEleventhConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\projects\MyEleventhConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\projects\MyEleventhConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\projects\MyEleventhConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\projects\MyEleventhConsoleApp\obj\Debug\netcoreapp3.1\Day 12.csprojAssemblyReference.cache
+C:\projects\MyEleventhConsoleApp\obj\Debug\netcoreapp3.1\Day 12.csproj.CoreCompileInputs.cache
+C:\projects\MyEleventhConsoleApp\obj\Debug\netcoreapp3.1\Day 12.AssemblyInfoInputs.cache
+C:\projects\MyEleventhConsoleApp\obj\Debug\netcoreapp3.1\Day 12.AssemblyInfo.cs
+C:\projects\MyEleventhConsoleApp\obj\Debug\netcoreapp3.1\Day 12.csproj.CopyComplete
+C:\projects\MyEleventhConsoleApp\obj\Debug\netcoreapp3.1\Day 12.dll
+C:\projects\MyEleventhConsoleApp\obj\Debug\netcoreapp3.1\Day 12.pdb
+C:\projects\MyEleventhConsoleApp\obj\Debug\netcoreapp3.1\Day 12.genruntimeconfig.cache
